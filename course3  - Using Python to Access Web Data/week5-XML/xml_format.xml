@@ -1,0 +1,11 @@
+<person>
+	<name>Mouhamadou</name>
+	<age>30</age>
+	<dateofbirth>10-05-2018</dateofbirth>
+</person>
+
+<xs:element name="person">
+	<xs:complexType>
+		<xs:sequence></xs:sequence>
+	</xs:complexType>
+</xs:element>
